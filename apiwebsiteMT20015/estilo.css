@@ -2,7 +2,6 @@
 
 
 img {width:3cm;height:3cm;}
-table {width:80%;margin:auto;}
 th#price {cursor:pointer;}
 li {color:blue;}
 /*si chequea muestra los productos sin cheque desaparecen los productos*/
@@ -21,5 +20,6 @@ body {
    }
 
    table {
+     width:80%;margin:auto;
     border: 1px solid;
   }
