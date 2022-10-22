@@ -1,4 +1,4 @@
-/*MT20015 - Wilfredo Jose Mancia Tejada - TPI1158/
+/*MT20015 - Wilfredo Jose Mancia Tejada - TPI115*/
 
 img {width:3cm;height:3cm;}
 table {width:80%;margin:auto;}
@@ -18,3 +18,7 @@ input#c4:not(checked) ~ table tbody tr.c4 { display: none; }
 body {
     background-color: lightblue;
    }
+
+   table {
+    border: 1px solid;
+  }
