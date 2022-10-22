@@ -24,3 +24,9 @@ body {
     border: 1px solid;
   }
 img {width:3cm;height:3cm;}
+
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
